@@ -11,7 +11,7 @@ The [Keynote Webinar](http://youtu.be/jl3DZ-KnrCU) is hosted on the [Kendo UI Yo
 All demos for Kendo UI can be found on the Kendo UI site under the demos subdomain.  Each demo has documentation on the second tab that changes with the current demo.  Additionally, you can find all configuration options, events and methods, as well as a link to the documentation specific portion of the Kendo UI site.
 
 #### Kendo UI Demos
-[demos.kendoui.com]("http://demos.kendoui.com")
+[demos.kendoui.com](http://demos.kendoui.com)
 
 #### Kendo UI Documentation
-[kendoui.com/documentation]("http://kendoui.com/documentation")
+[kendoui.com/documentation](http://kendoui.com/documentation)
