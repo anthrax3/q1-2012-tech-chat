@@ -2,11 +2,11 @@
 
 These are all the resources that we discussed during the Q12012 Keynote and TechChat webinars.  Sample demos from the webinars are included in this repo.  This readme file contains links to the relevant pages and documentation that were discussed during the main keynote and in the techchat that followed.
 
-### Keynote Webinar Recording
+## Keynote Webinar Recording
 
 The [Keynote Webinar](http://youtu.be/jl3DZ-KnrCU) is hosted on the [Kendo UI YouTube Channel](http://www.youtube.com/user/kendouiTV) along with all the other Kendo UI related videos and screencasts.
 
-### Kendo UI Demos And Documentation
+## Kendo UI Demos And Documentation
 
 All demos for Kendo UI can be found on the Kendo UI site under the demos subdomain.  Each demo has documentation on the second tab that changes with the current demo.  Additionally, you can find all configuration options, events and methods, as well as a link to the documentation specific portion of the Kendo UI site.
 
@@ -15,3 +15,7 @@ All demos for Kendo UI can be found on the Kendo UI site under the demos subdoma
 
 #### Kendo UI Documentation
 [kendoui.com/documentation](http://kendoui.com/documentation)
+
+## Sample Apps From Keynote And TechChat
+
+The sample application are contained here as subfolders.  The **Playlist Editor** is a Rails 3.1 Application.  The ** Shoe Fodder ** example is in two parts.  Part one is the Node application that serves up the website.  Part 2 is a Sinatra application which provides the data to the Node application.

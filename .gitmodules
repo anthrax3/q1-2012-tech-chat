@@ -1,0 +1,9 @@
+[submodule "my-awesome-framework"]
+	path = my-awesome-framework
+	url = http://github.com/defunkt/my-awesome-framework
+[submodule "shoe_fodder"]
+	path = shoe_fodder
+	url = https://github.com/bsatrom/shoe_fodder.git
+[submodule "shoe_fodder_api"]
+	path = shoe_fodder_api
+	url = https://github.com/bsatrom/shoe_fodder_api.git
