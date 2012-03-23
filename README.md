@@ -32,4 +32,7 @@ Several questions were asked about what text editors were used for the Screencas
 ## Other Resources
 
 [KnockoutJS And Kendo UI](http://rniemeyer.github.com/knockout-kendo/) - [Ryan Niemeyer](http://knockmeout.com)'s project to create a complete set of bindings in KnockoutJS for Kendo UI.  
+
 [Kendo UI ThemeBuilder](http://demos.kendoui.com/themebuilder/index.html) - A link you can drag to your bookmark to customize the look of Kendo UI on your page. Exports results as LESS or CSS.
+
+[Kendo UI GitHub Examples](https://github.com/telerik) - Examples for just about every dev platform including Rails, ASP.NET, Backbone and more.
