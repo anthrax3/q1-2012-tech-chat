@@ -18,9 +18,18 @@ All demos for Kendo UI can be found on the Kendo UI site under the demos subdoma
 
 ## Sample Apps From Keynote And TechChat
 
-The sample applications are contained here as submodules.  The **Playlist Editor** is a Rails 3.1 Application.  The **Shoe Fodder** example is in two parts.  Part one, **shoe-fodder** is a Ruby & Sinatra application which provides data to part 2, which is a [Node](http://nodejs.org) application which uses the [Express MVC Framework](http://expressjs.com).
+The sample applications are contained here as submodules.  The **Playlist Editor** is a Rails 3.1 Application.  The **Shoe Fodder** example is in two parts.  Part one, **shoe-fodder** is a [Ruby](http://www.ruby-lang.org/en/) & [Sinatra](http://sinatrarb.com) application which provides data to part 2, which is a [Node](http://nodejs.org) application which uses the [Express MVC Framework](http://expressjs.com).
 
 When you clone this repo, you will need to intialize the submodules which are the demo projects.
 
 	git clone git@github.com:telerik/Q12012TechChat.git
 	git submodule update --init
+	
+#### Text Editors Used In The Demos
+
+Several questions were asked about what text editors were used for the Screencast.  [Brandon](http://twitter.com/brandonsatrom) uses [Sublime Text 2](http://sublimetext.com/2), and [Burke](http://twitter.com/burkeholland) uses [TextMate](http://macromates.com).
+
+## Other Resources
+
+[KnockoutJS And Kendo UI](http://rniemeyer.github.com/knockout-kendo/) - [Ryan Niemeyer](http://knockmeout.com)'s project to create a complete set of bindings in KnockoutJS for Kendo UI.
+[Kendo UI ThemeBuilder](http://demos.kendoui.com/themebuilder/index.html) - A link you can drag to your bookmark to customize the look of Kendo UI on your page. Exports results as LESS or CSS.
