@@ -5,3 +5,6 @@
 	path = shoe_fodder_api
 	url = https://github.com/bsatrom/shoe_fodder_api.git
 
+[submodule "playlist-editor"]
+	path = playlist-editor
+	url = git@github.com:burkeholland/playlist-editor.git
