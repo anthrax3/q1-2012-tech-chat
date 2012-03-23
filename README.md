@@ -18,7 +18,7 @@ All demos for Kendo UI can be found on the Kendo UI site under the demos subdoma
 
 ## Sample Apps From Keynote And TechChat
 
-The sample applications are contained here as submodules.  The **Playlist Editor** is a Rails 3.1 Application.  The ** Shoe Fodder ** example is in two parts.  Part one is the Node application that serves up the website.  Part 2 is a Sinatra application which provides the data to the Node application.
+The sample applications are contained here as submodules.  The **Playlist Editor** is a Rails 3.1 Application.  The **Shoe Fodder** example is in two parts.  Part one, **shoe-fodder** is a Ruby & Sinatra application which provides data to part 2, which is a [Node](http://nodejs.org) application which uses the [Express MVC Framework](http://expressjs.com).
 
 When you clone this repo, you will need to intialize the submodules which are the demo projects.
 
